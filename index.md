@@ -7,7 +7,7 @@
       <p><b>石家庄铁道大学信息学院</b></p>
       <p><b>邮箱：2291537732@qq.com</b></p>
       <p><b>地址：石家庄市 长安区 胜利北街 石家庄北二环东路17号</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="/index-en.md">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/chenqi.jpg" width="100%">
